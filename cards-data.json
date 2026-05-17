@@ -1,0 +1,2007 @@
+{
+    "version": "1.0.0",
+    "lastModified": "2026-05-17T15:09:51.719472500Z",
+    "categories": [
+        {
+            "id": 1,
+            "emoji": "💭",
+            "name": "Intention",
+            "color": "#FF8C00",
+            "role": "Amorcer une phrase, exprimer ce qu'on veut faire",
+            "subcategories": [
+                {
+                    "id": "1.1",
+                    "name": "Besoin / Désir",
+                    "cards": [
+                        {
+                            "id": "IN-BE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je voudrais",
+                            "fr": "Je voudrais",
+                            "en": "I would like",
+                            "lao": "ຂ້ອຍຢາກໄດ້",
+                            "phonetic": "khoy yak dai"
+                        },
+                        {
+                            "id": "IN-BE-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je cherche",
+                            "fr": "Je cherche",
+                            "en": "I'm looking for",
+                            "lao": "",
+                            "phonetic": "khoy sok ha"
+                        },
+                        {
+                            "id": "IN-BE-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "J'ai besoin de",
+                            "fr": "J'ai besoin de",
+                            "en": "I need",
+                            "lao": "",
+                            "phonetic": "khoy tong kan"
+                        }
+                    ]
+                },
+                {
+                    "id": "1.2",
+                    "name": "Action",
+                    "cards": [
+                        {
+                            "id": "IN-AC-01",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Je voudrais manger",
+                            "fr": "Je voudrais manger",
+                            "en": "I want to eat",
+                            "lao": "",
+                            "phonetic": "khoy yak kin"
+                        },
+                        {
+                            "id": "IN-AC-02",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Je voudrais acheter",
+                            "fr": "Je voudrais acheter",
+                            "en": "I want to buy",
+                            "lao": "",
+                            "phonetic": "khoy yak sue"
+                        },
+                        {
+                            "id": "IN-AC-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je voudrais voir",
+                            "fr": "Je voudrais voir",
+                            "en": "I want to see",
+                            "lao": "",
+                            "phonetic": "khoy yak hen"
+                        },
+                        {
+                            "id": "IN-AC-04",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Je voudrais payer",
+                            "fr": "Je voudrais payer",
+                            "en": "I want to pay",
+                            "lao": "",
+                            "phonetic": "khoy yak chai"
+                        },
+                        {
+                            "id": "IN-AC-05",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Je voudrais goûter",
+                            "fr": "Je voudrais goûter",
+                            "en": "I want to taste",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "1.3",
+                    "name": "Mouvement",
+                    "cards": [
+                        {
+                            "id": "IN-MO-01",
+                            "recipient": "🚕 Chauffeur, 👤 Local",
+                            "title": "Je voudrais aller à",
+                            "fr": "Je voudrais aller à",
+                            "en": "I want to go to",
+                            "lao": "",
+                            "phonetic": "khoy yak pai"
+                        },
+                        {
+                            "id": "IN-MO-02",
+                            "recipient": "🚕 Chauffeur",
+                            "title": "Je voudrais revenir à",
+                            "fr": "Je voudrais revenir à",
+                            "en": "I want to go back to",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "IN-MO-03",
+                            "recipient": "🚕 Chauffeur",
+                            "title": "Arrêtez-vous ici",
+                            "fr": "Arrêtez-vous ici",
+                            "en": "Stop here",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "1.4",
+                    "name": "Refus / Préférence",
+                    "cards": [
+                        {
+                            "id": "IN-RE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je ne veux pas",
+                            "fr": "Je ne veux pas",
+                            "en": "I don't want",
+                            "lao": "",
+                            "phonetic": "khoy bo yak"
+                        },
+                        {
+                            "id": "IN-RE-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je préfère",
+                            "fr": "Je préfère",
+                            "en": "I prefer",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "IN-RE-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Sans ça",
+                            "fr": "Sans ça",
+                            "en": "Without this",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "1.5",
+                    "name": "Permission",
+                    "cards": [
+                        {
+                            "id": "IN-PE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je peux ?",
+                            "fr": "Je peux ?",
+                            "en": "Can I ?",
+                            "lao": "",
+                            "phonetic": "dai bo ?"
+                        },
+                        {
+                            "id": "IN-PE-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "C'est possible ?",
+                            "fr": "C'est possible ?",
+                            "en": "Is it possible ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "IN-PE-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "C'est autorisé ?",
+                            "fr": "C'est autorisé ?",
+                            "en": "Is it allowed ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "emoji": "❓",
+            "name": "Question",
+            "color": "#FFD700",
+            "role": "Poser une question simple",
+            "subcategories": [
+                {
+                    "id": "2.1",
+                    "name": "Prix / Argent",
+                    "cards": [
+                        {
+                            "id": "QU-PR-01",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Combien ? (prix)",
+                            "fr": "Combien ? (prix)",
+                            "en": "How much ?",
+                            "lao": "",
+                            "phonetic": "thao dai ?"
+                        },
+                        {
+                            "id": "QU-PR-02",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Au kilo ou à la pièce ?",
+                            "fr": "Au kilo ou à la pièce ?",
+                            "en": "Per kilo or per piece ?",
+                            "lao": "",
+                            "phonetic": "kilo lue nuay ?"
+                        },
+                        {
+                            "id": "QU-PR-03",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Acceptez-vous les dollars / bahts ?",
+                            "fr": "Acceptez-vous les dollars / bahts ?",
+                            "en": "Do you accept dollars / baht ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-PR-04",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Y a-t-il une réduction ?",
+                            "fr": "Y a-t-il une réduction ?",
+                            "en": "Is there a discount ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "name": "Lieu",
+                    "cards": [
+                        {
+                            "id": "QU-LI-01",
+                            "recipient": "👤 Local, 🚕 Chauffeur",
+                            "title": "Où ?",
+                            "fr": "Où ?",
+                            "en": "Where ?",
+                            "lao": "",
+                            "phonetic": "yu sai ?"
+                        },
+                        {
+                            "id": "QU-LI-02",
+                            "recipient": "👤 Local, 🚕 Chauffeur",
+                            "title": "C'est loin ?",
+                            "fr": "C'est loin ?",
+                            "en": "Is it far ?",
+                            "lao": "",
+                            "phonetic": "kai bo ?"
+                        },
+                        {
+                            "id": "QU-LI-03",
+                            "recipient": "👤 Local, 🚕 Chauffeur",
+                            "title": "À gauche ou à droite ?",
+                            "fr": "À gauche ou à droite ?",
+                            "en": "Left or right ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-LI-04",
+                            "recipient": "👤 Local, 🚕 Chauffeur",
+                            "title": "C'est dans quelle direction ?",
+                            "fr": "C'est dans quelle direction ?",
+                            "en": "Which direction ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "2.3",
+                    "name": "Temps",
+                    "cards": [
+                        {
+                            "id": "QU-TE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Quand ?",
+                            "fr": "Quand ?",
+                            "en": "When ?",
+                            "lao": "",
+                            "phonetic": "meua dai ?"
+                        },
+                        {
+                            "id": "QU-TE-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "À quelle heure ?",
+                            "fr": "À quelle heure ?",
+                            "en": "What time ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-TE-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Combien de temps ?",
+                            "fr": "Combien de temps ?",
+                            "en": "How long ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "2.4",
+                    "name": "Disponibilité",
+                    "cards": [
+                        {
+                            "id": "QU-DI-01",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "C'est ouvert ?",
+                            "fr": "C'est ouvert ?",
+                            "en": "Is it open ?",
+                            "lao": "",
+                            "phonetic": "poet bo ?"
+                        },
+                        {
+                            "id": "QU-DI-02",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Il y en a ?",
+                            "fr": "Il y en a ?",
+                            "en": "Do you have any ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-DI-03",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "C'est disponible ?",
+                            "fr": "C'est disponible ?",
+                            "en": "Is it available ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-DI-04",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "C'est la saison ?",
+                            "fr": "C'est la saison ?",
+                            "en": "Is it in season ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "2.5",
+                    "name": "Choix",
+                    "cards": [
+                        {
+                            "id": "QU-CH-01",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Combien ? (quantité)",
+                            "fr": "Combien ? (quantité)",
+                            "en": "How many ?",
+                            "lao": "",
+                            "phonetic": "chak ?"
+                        },
+                        {
+                            "id": "QU-CH-02",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Quoi ?",
+                            "fr": "Quoi ?",
+                            "en": "What ?",
+                            "lao": "",
+                            "phonetic": "nyang ?"
+                        },
+                        {
+                            "id": "QU-CH-03",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Lequel recommandez-vous ?",
+                            "fr": "Lequel recommandez-vous ?",
+                            "en": "Which one do you recommend ?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "QU-CH-04",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Quelle taille ?",
+                            "fr": "Quelle taille ?",
+                            "en": "What size ?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "2.6",
+                    "name": "Langue / Compréhension",
+                    "cards": [
+                        {
+                            "id": "QU-LA-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Parlez-vous français ǀ anglais ?",
+                            "fr": "Parlez-vous français ? ǀ Anglais ?",
+                            "en": "Do you speak French? ǀ English?",
+                            "lao": "ເຈົ້າເວົ້າພາສາຝຣັ່ງໄດ້ບໍ? ǀ ອັງກິດ?",
+                            "phonetic": "chao vao phasa falang dai bo? ǀ angkit?"
+                        },
+                        {
+                            "id": "QU-LA-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Répéter ǀ Plus lentement",
+                            "fr": "Pouvez-vous répéter ? ǀ Plus lentement s'il vous plaît",
+                            "en": "Can you repeat? ǀ Slower please",
+                            "lao": "ເວົ້າອີກເທື່ອໄດ້ບໍ? ǀ ຊ້າໆ ແດ່",
+                            "phonetic": "vao ik theua dai bo? ǀ sa sa dae"
+                        },
+                        {
+                            "id": "QU-LA-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je ne comprends pas ǀ Comprenez-vous ?",
+                            "fr": "Je ne comprends pas ǀ Comprenez-vous ?",
+                            "en": "I don't understand ǀ Do you understand?",
+                            "lao": "ຂ້ອຍບໍ່ເຂົ້າໃຈ ǀ ເຈົ້າເຂົ້າໃຈບໍ?",
+                            "phonetic": "khoy bo khao chai ǀ chao khao chai bo?"
+                        },
+                        {
+                            "id": "QU-LA-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Écrire ǀ Montrer sur la carte",
+                            "fr": "Pouvez-vous écrire ? ǀ Montrer sur la carte / le téléphone ?",
+                            "en": "Can you write it down? ǀ Show me on the map / phone?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "emoji": "📖",
+            "name": "Contexte",
+            "color": "#8B4513",
+            "role": "Paragraphe complet, situation autonome",
+            "subcategories": [
+                {
+                    "id": "3.1",
+                    "name": "🏨 Hébergement",
+                    "cards": [
+                        {
+                            "id": "CO-HE-01",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Check-in",
+                            "fr": "Bonjour, j'ai une réservation au nom de [X]. Pour [X] nuits.",
+                            "en": "Hello, I have a reservation under the name [X]. For [X] nights.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-02",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Check-out",
+                            "fr": "Je pars aujourd'hui. Puis-je laisser mes bagages quelques heures ?",
+                            "en": "I'm leaving today. Can I leave my luggage for a few hours?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-03",
+                            "recipient": "🏨 Hôtel, 👤 Local",
+                            "title": "Recherche d'hébergement",
+                            "fr": "Je cherche une chambre pas chère pour ce soir. Avez-vous quelque chose ?",
+                            "en": "I'm looking for a cheap room for tonight. Do you have anything?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-04",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Navette aéroport/gare",
+                            "fr": "Y a-t-il une navette vers l'aéroport ou la gare routière ? À quelle heure ?",
+                            "en": "Is there a shuttle to the airport or bus station? What time?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-05",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Restaurant intégré",
+                            "fr": "Y a-t-il un restaurant dans l'hôtel ? Quels sont les horaires ?",
+                            "en": "Is there a restaurant in the hotel? What are the hours?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-06",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Problème chambre",
+                            "fr": "Il y a un problème dans ma chambre (eau/clim/insectes). Pouvez-vous m'aider ?",
+                            "en": "There is a problem in my room (water/AC/insects). Can you help me?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-HE-07",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Prolonger le séjour",
+                            "fr": "Je voudrais rester une/plusieurs nuit(s) de plus. C'est possible ?",
+                            "en": "I would like to stay one/more extra night(s). Is it possible?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "name": "📶 Commodités & Services",
+                    "cards": [
+                        {
+                            "id": "CO-SE-01",
+                            "recipient": "🏨 Hôtel, 🍽️ Restaurant",
+                            "title": "Wifi",
+                            "fr": "Y a-t-il du wifi ? Quel est le mot de passe ?",
+                            "en": "Is there Wi-Fi? What is the password?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-SE-02",
+                            "recipient": "🍽️ Restaurant, 👤 Local",
+                            "title": "Recharger téléphone",
+                            "fr": "Puis-je brancher et charger mon téléphone ici pendant environ une heure ? Je consomme quelque chose bien sûr.",
+                            "en": "Can I plug in and charge my phone here for about an hour? I'll order something of course.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-SE-03",
+                            "recipient": "🏨 Hôtel, 👤 Local",
+                            "title": "Je reste dans le coin",
+                            "fr": "Je suis dans le quartier, je reviendrai dans un moment.",
+                            "en": "I'm in the neighborhood, I'll be back in a while.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-SE-04",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Lessive",
+                            "fr": "Y a-t-il un service de lessive ? Combien et quand ?",
+                            "en": "Is there a laundry service? How much and when?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-SE-05",
+                            "recipient": "🏨 Hôtel, 👤 Local",
+                            "title": "Consigne bagages",
+                            "fr": "Puis-je laisser mon sac ici quelques heures en sécurité ?",
+                            "en": "Can I leave my bag here safely for a few hours?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.3",
+                    "name": "🍉 Alimentation & Régime",
+                    "cards": [
+                        {
+                            "id": "CO-AL-01",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Alimentation plant-based",
+                            "fr": "Je mange principalement des fruits et plantes. Pas de viande, poisson, ni produits animaux. Si pas de fruits : riz + légumes + sauce piquante. Merci !",
+                            "en": "I eat mainly fruits and plants. No meat, fish, or animal products. If no fruits: rice + vegetables + spicy sauce. Thank you!",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-AL-02",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Mon histoire alimentaire",
+                            "fr": "C'est une longue histoire ! J'ai changé pour une alimentation à base de fruits et plantes. J'ai beaucoup à raconter et plein d'expériences. Mais avant tout : c'est un choix par feeling, par écoute du corps. Pas de l'idéologie, du militantisme, du poids ou d'une croyance. Un parcours perso. Si ça vous intéresse, j'adorerais en parler !",
+                            "en": "It's a long story! I switched to a fruit and plant-based diet. I have a lot to share and many experiences. But above all: it's a choice based on feeling, on listening to my body. Not ideology, activism, weight, or belief. A personal journey. If you're interested, I'd love to talk about it!",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-AL-03",
+                            "recipient": "🍽️ Restaurant, 🏥 Médecin",
+                            "title": "Allergie alimentaire",
+                            "fr": "Je suis allergique à [X]. Merci de vérifier les ingrédients.",
+                            "en": "I am allergic to [X]. Please check the ingredients.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-AL-04",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Demander la composition",
+                            "fr": "Qu'est-ce qu'il y a dedans ? C'est fait avec quoi ? Y a-t-il de la viande ou du poisson dedans ?",
+                            "en": "What's in it? What is it made with? Is there any meat or fish in it?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.4",
+                    "name": "🚕 Transport & Navigation",
+                    "cards": [
+                        {
+                            "id": "CO-TR-01",
+                            "recipient": "🚕 Chauffeur",
+                            "title": "Trajet taxi/tuk-tuk",
+                            "fr": "Je veux aller à cette adresse. Combien ? Pouvez-vous utiliser le compteur ?",
+                            "en": "I want to go to this address. How much? Can you use the meter?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-TR-02",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Je suis perdu",
+                            "fr": "Bonjour, je suis perdu. Pouvez-vous m'indiquer le chemin sur la carte ?",
+                            "en": "Hello, I am lost. Can you show me the way on the map?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-TR-03",
+                            "recipient": "🚕 Chauffeur, 👤 Local",
+                            "title": "Horaires bus/bateau",
+                            "fr": "À quelle heure part le prochain bus/bateau pour [X] ?",
+                            "en": "What time does the next bus/boat to [X] leave?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-TR-04",
+                            "recipient": "🚕 Chauffeur, 🛒 Commerçant",
+                            "title": "Location scooter",
+                            "fr": "Je voudrais louer un scooter. Combien par jour ? Faut-il un permis ?",
+                            "en": "I would like to rent a scooter. How much per day? Do I need a license?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.5",
+                    "name": "🆘 Urgences & Sécurité",
+                    "cards": [
+                        {
+                            "id": "CO-UR-01",
+                            "recipient": "🏥 Médecin, 🌐 Tout le monde",
+                            "title": "Urgence médicale",
+                            "fr": "J'ai besoin d'un médecin. Pouvez-vous m'aider ou appeler une ambulance ?",
+                            "en": "I need a doctor. Can you help me or call an ambulance?",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-UR-02",
+                            "recipient": "👮 Police, 👤 Local",
+                            "title": "Vol / objet perdu",
+                            "fr": "On m'a volé / j'ai perdu mes affaires. J'ai besoin d'un commissariat.",
+                            "en": "I've been robbed / I lost my belongings. I need a police station.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-UR-03",
+                            "recipient": "👮 Police, 🌐 Tout le monde",
+                            "title": "Ambassade",
+                            "fr": "J'ai besoin de contacter mon ambassade. Pouvez-vous m'aider ?",
+                            "en": "I need to contact my embassy. Can you help me?",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.6",
+                    "name": "💬 Communication de base",
+                    "cards": [
+                        {
+                            "id": "CO-CO-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je ne parle pas lao",
+                            "fr": "Désolé, je ne parle pas lao. Merci de votre patience.",
+                            "en": "Sorry, I don't speak Lao. Thank you for your patience.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-CO-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Remerciement complet",
+                            "fr": "Merci beaucoup pour votre aide. Bonne journée !",
+                            "en": "Thank you very much for your help. Have a nice day!",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-CO-03",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Échange culturel",
+                            "fr": "Je voyage pour découvrir votre culture. J'adore le Laos et ses gens. Merci de m'accueillir.",
+                            "en": "I travel to discover your culture. I love Laos and its people. Thank you for welcoming me.",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.7",
+                    "name": "🌱 Apprentissage / Savoir-faire",
+                    "cards": [
+                        {
+                            "id": "CO-AP-01",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Envie d'apprendre [X]",
+                            "fr": "Je suis très curieux et j'adore apprendre auprès des locaux. J'aimerais connaître vos techniques ou méthodes pour : [X]. Pouvez-vous me montrer ou m'expliquer ? Je suis content d'apprendre !",
+                            "en": "I'm very curious and I love learning from locals. I'd like to know your techniques or methods for: [X]. Can you show me or explain? I'm happy to learn!",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.8",
+                    "name": "🚶 Exploration / Balade",
+                    "cards": [
+                        {
+                            "id": "CO-EX-01",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Exploration libre",
+                            "fr": "Aujourd'hui, je me balade simplement. Pas de plan, pas d'horaire. J'explore la région, je vais ici et là, je me perds un peu, ça fait partie du plaisir. Je cherche aussi quelques fruits à manger, un coin tranquille pour me poser, et un peu d'eau pour me rafraîchir. Je suis content, je profite du voyage.",
+                            "en": "Today I'm just walking around, no plan, no schedule. I explore the area, go here and there, maybe get a little lost, that's part of the fun. I'm also looking for some fruits to eat, a quiet spot to rest, and some water to wash up. I'm happy, just enjoying the journey.",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.9",
+                    "name": "🌳 Mission / Projet personnel",
+                    "cards": [
+                        {
+                            "id": "CO-MI-01",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Ma mission : forêt fruitière",
+                            "fr": "Je voyage lentement, à pied, en vélo, en stop. Pas de plan rigide, pas de destination finale. Mon projet : créer une forêt fruitière tropicale partagée. Au fil du voyage, je montre les documents que j'ai rédigés, la vision, le concept, les réflexions. Je cherche des gens à qui ça parle. Des jeunes locaux qui cherchent quelque chose sans encore savoir quoi. Des familles d'agriculteurs qui s'orientent vers autre chose. Des petites communautés en permaculture. Je ne cherche pas d'argent ni d'investisseurs. Je propose mon aide gratuitement, à 100%, mon temps, mon travail, mon énergie, en échange d'un endroit où planter, d'un sol, d'un projet commun. L'endroit, je ne le choisis pas sur une carte. Je le laisse venir. Si ça vous parle, j'adorerais vous montrer mes documents et en discuter.",
+                            "en": "I'm traveling slowly, on foot, by bike, hitchhiking. No rigid plan, no final destination. My project: to create a shared tropical fruit forest. Along the way, I show the documents I've written, the vision, the concept, my reflections. I'm looking for people who feel something when they hear this. Young locals searching for something they can't quite name yet. Farming families moving toward something different. Small permaculture communities. I'm not looking for money or investors. I offer my help completely free, my time, my work, my energy, in exchange for a place to plant, a piece of land, a shared direction. The place, I don't choose it on a map. I let it come to me. If this resonates with you, I'd love to show you my documents and talk about it.",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "3.10",
+                    "name": "🧭 Voyage / Présentation",
+                    "cards": [
+                        {
+                            "id": "CO-VO-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Présentation voyageur",
+                            "fr": "Je m'appelle [X]. Je viens de [X]. Je voyage seul, à pied / en vélo / en stop. Je suis au Laos depuis [X] jours et je reste encore [X] jours.",
+                            "en": "My name is [X]. I'm from [X]. I travel alone, on foot / by bike / hitchhiking. I've been in Laos for [X] days and I'm staying [X] more days.",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "CO-VO-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "De passage",
+                            "fr": "Je suis juste de passage ici. Je repars demain matin vers [X].",
+                            "en": "I'm just passing through. I leave tomorrow morning towards [X].",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "emoji": "📦",
+            "name": "Objet",
+            "color": "#228B22",
+            "role": "Nommer une chose concrète",
+            "subcategories": [
+                {
+                    "id": "4.1",
+                    "name": "🍉 Fruits courants",
+                    "cards": [
+                        {
+                            "id": "OB-FR-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Fruits courants",
+                            "fr": "Mangue ǀ Banane ǀ Papaye ǀ Pastèque ǀ Ananas ǀ Noix de coco ǀ Citron vert ǀ Fruit de la passion ǀ Goyave ǀ Ramboutan",
+                            "en": "Mango ǀ Banana ǀ Papaya ǀ Watermelon ǀ Pineapple ǀ Coconut ǀ Lime ǀ Passion fruit ǀ Guava ǀ Rambutan",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.2",
+                    "name": "🍉 Fruits tropicaux / locaux",
+                    "cards": [
+                        {
+                            "id": "OB-FR-L2",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Fruits tropicaux",
+                            "fr": "Durian ǀ Mangoustan ǀ Jacquier ǀ Litchi ǀ Longane ǀ Pomelo ǀ Tamarin ǀ Fruit du dragon ǀ Pomme de lait ǀ Sapotille",
+                            "en": "Durian ǀ Mangosteen ǀ Jackfruit ǀ Lychee ǀ Longan ǀ Pomelo ǀ Tamarind ǀ Dragon fruit ǀ Star apple ǀ Sapodilla",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.3",
+                    "name": "🥬 Légumes & Féculents",
+                    "cards": [
+                        {
+                            "id": "OB-LE-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Légumes & Féculents",
+                            "fr": "Riz gluant ǀ Riz blanc ǀ Nouilles ǀ Épinards d'eau ǀ Chou ǀ Aubergine ǀ Concombre ǀ Piment (frais) ǀ Tomate ǀ Pousses de bambou ǀ Courge",
+                            "en": "Sticky rice ǀ White rice ǀ Noodles ǀ Morning glory ǀ Cabbage ǀ Eggplant ǀ Cucumber ǀ Chili (fresh) ǀ Tomato ǀ Bamboo shoots ǀ Squash",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.4",
+                    "name": "🌰 Produits végétaux",
+                    "cards": [
+                        {
+                            "id": "OB-VE-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Produits végétaux",
+                            "fr": "Cacahuètes ǀ Noix de cajou ǀ Sésame ǀ Graines de tournesol ǀ Tofu ǀ Lait de coco ǀ Huile de coco ǀ Miel",
+                            "en": "Peanuts ǀ Cashew nuts ǀ Sesame ǀ Sunflower seeds ǀ Tofu ǀ Coconut milk ǀ Coconut oil ǀ Honey",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.5",
+                    "name": "🌿 Plantes comestibles",
+                    "cards": [
+                        {
+                            "id": "OB-PL-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Plantes comestibles",
+                            "fr": "Coriandre ǀ Menthe ǀ Basilic thaï ǀ Salade ǀ Herbes locales ǀ Feuilles de bananier",
+                            "en": "Coriander ǀ Mint ǀ Thai basil ǀ Lettuce ǀ Local herbs ǀ Banana leaves",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.6",
+                    "name": "🫚 Épices",
+                    "cards": [
+                        {
+                            "id": "OB-EP-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Épices",
+                            "fr": "Citronnelle ǀ Galanga ǀ Curcuma ǀ Piment séché ǀ Poivre ǀ Gingembre ǀ Anis étoilé ǀ Sauce piquante",
+                            "en": "Lemongrass ǀ Galangal ǀ Turmeric ǀ Dried chili ǀ Pepper ǀ Ginger ǀ Star anise ǀ Spicy sauce",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.7",
+                    "name": "🪥 Hygiène dentaire",
+                    "cards": [
+                        {
+                            "id": "OB-HD-L1",
+                            "recipient": "🛒 Commerçant, 👤 Local",
+                            "title": "Hygiène dentaire",
+                            "fr": "Brosse à dents ǀ Fil dentaire ǀ Siwak (bâton d'arak) ǀ Alternative locale ? ǀ Clou de girofle ǀ Huile de coco (buccal) ǀ Dentifrice",
+                            "en": "Toothbrush ǀ Dental floss ǀ Miswak ǀ Local alternative? ǀ Clove ǀ Coconut oil (oral) ǀ Toothpaste",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.8",
+                    "name": "🧴 Hygiène générale",
+                    "cards": [
+                        {
+                            "id": "OB-HG-L1",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Hygiène générale",
+                            "fr": "Argile verte ǀ Savon ǀ Shampoing naturel ǀ Vinaigre de cidre",
+                            "en": "Green clay ǀ Soap ǀ Natural shampoo ǀ Apple cider vinegar",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.9",
+                    "name": "🎒 Objets utiles (voyage)",
+                    "cards": [
+                        {
+                            "id": "OB-UT-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Toilettes",
+                            "fr": "Toilettes",
+                            "en": "Toilet",
+                            "lao": "",
+                            "phonetic": "hong nam"
+                        },
+                        {
+                            "id": "OB-UT-02",
+                            "recipient": "👤 Local",
+                            "title": "Pharmacie",
+                            "fr": "Pharmacie",
+                            "en": "Pharmacy",
+                            "lao": "",
+                            "phonetic": "han khai ya"
+                        },
+                        {
+                            "id": "OB-UT-03",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Carte SIM",
+                            "fr": "Carte SIM",
+                            "en": "SIM card",
+                            "lao": "",
+                            "phonetic": "sim"
+                        },
+                        {
+                            "id": "OB-UT-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Argent / espèces",
+                            "fr": "Argent / espèces",
+                            "en": "Cash",
+                            "lao": "",
+                            "phonetic": "ngeun sot"
+                        },
+                        {
+                            "id": "OB-UT-05",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Eau (bouteille)",
+                            "fr": "Eau (bouteille)",
+                            "en": "Water (bottle)",
+                            "lao": "",
+                            "phonetic": "nam"
+                        },
+                        {
+                            "id": "OB-UT-06",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Sac plastique",
+                            "fr": "Sac plastique",
+                            "en": "Plastic bag",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "OB-UT-07",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Moustiquaire",
+                            "fr": "Moustiquaire",
+                            "en": "Mosquito net",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "OB-UT-08",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Crème solaire",
+                            "fr": "Crème solaire",
+                            "en": "Sunscreen",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "4.10",
+                    "name": "🔌 Tech / Connectivité",
+                    "cards": [
+                        {
+                            "id": "OB-TC-L1",
+                            "recipient": "🛒 Commerçant, 🏨 Hôtel",
+                            "title": "Tech & Connectivité",
+                            "fr": "Chargeur ǀ Batterie externe ǀ Adaptateur de prise ǀ Câble USB ǀ Lampe torche ǀ Wi-Fi ǀ Mot de passe Wi-Fi",
+                            "en": "Charger ǀ Power bank ǀ Plug adapter ǀ USB cable ǀ Flashlight ǀ Wi-Fi ǀ Wi-Fi password",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "emoji": "📍",
+            "name": "Lieu / Transport",
+            "color": "#1E90FF",
+            "role": "Destinations et moyens de transport",
+            "subcategories": [
+                {
+                    "id": "5.1",
+                    "name": "🏨 Hébergement",
+                    "cards": [
+                        {
+                            "id": "LI-HE-L1",
+                            "recipient": "🏨 Hôtel, 👤 Local",
+                            "title": "Types d'hébergement",
+                            "fr": "Hôtel ǀ Auberge / guesthouse ǀ Hostel ǀ Homestay ǀ Camping / terrain ǀ Un endroit où dormir (temporaire)",
+                            "en": "Hotel ǀ Guesthouse ǀ Hostel ǀ Homestay ǀ Campsite / plot ǀ A place to sleep (temporary)",
+                            "lao": "",
+                            "phonetic": "hong haem ǀ huan phak ǀ ǀ ǀ ǀ"
+                        }
+                    ]
+                },
+                {
+                    "id": "5.2",
+                    "name": "🏛️ Services",
+                    "cards": [
+                        {
+                            "id": "LI-SE-L1",
+                            "recipient": "👤 Local, 🚕 Chauffeur",
+                            "title": "Services",
+                            "fr": "Aéroport ǀ Gare routière ǀ Banque / ATM ǀ Poste ǀ Pharmacie ǀ Hôpital ǀ Police",
+                            "en": "Airport ǀ Bus station ǀ Bank / ATM ǀ Post office ǀ Pharmacy ǀ Hospital ǀ Police",
+                            "lao": "",
+                            "phonetic": "sanam bin ǀ sathani lot me ǀ thanakhan ǀ ǀ han khai ya ǀ hong mo ǀ tamluat"
+                        }
+                    ]
+                },
+                {
+                    "id": "5.3",
+                    "name": "🍽️ Nourriture",
+                    "cards": [
+                        {
+                            "id": "LI-NO-L1",
+                            "recipient": "👤 Local",
+                            "title": "Nourriture (lieux)",
+                            "fr": "Restaurant ǀ Marché ǀ Marché de nuit ǀ Stand de rue ǀ Marché de fruits",
+                            "en": "Restaurant ǀ Market ǀ Night market ǀ Street food stall ǀ Fruit market",
+                            "lao": "",
+                            "phonetic": "han ahan ǀ talat ǀ ǀ ǀ"
+                        }
+                    ]
+                },
+                {
+                    "id": "5.4",
+                    "name": "🛕 Culture / Nature",
+                    "cards": [
+                        {
+                            "id": "LI-CU-L1",
+                            "recipient": "👤 Local",
+                            "title": "Culture / Nature",
+                            "fr": "Temple ǀ Musée ǀ Cascade / nature",
+                            "en": "Temple ǀ Museum ǀ Waterfall / nature",
+                            "lao": "",
+                            "phonetic": "wat ǀ ǀ"
+                        }
+                    ]
+                },
+                {
+                    "id": "5.5",
+                    "name": "🚕 Transports",
+                    "cards": [
+                        {
+                            "id": "LI-TR-L1",
+                            "recipient": "🚕 Chauffeur",
+                            "title": "Transports",
+                            "fr": "Taxi ǀ Tuk-tuk ǀ Bus ǀ Bateau ǀ Moto / scooter ǀ Vélo",
+                            "en": "Taxi ǀ Tuk-tuk ǀ Bus ǀ Boat ǀ Motorbike ǀ Bicycle",
+                            "lao": "",
+                            "phonetic": "thaeksi ǀ tuk tuk ǀ lot me ǀ huea ǀ lot chak ǀ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "emoji": "🔢",
+            "name": "Nombre / Quantité",
+            "color": "#8A2BE2",
+            "role": "Préciser un nombre, une durée, une unité, une forme",
+            "subcategories": [
+                {
+                    "id": "6.1",
+                    "name": "Nombres",
+                    "cards": [
+                        {
+                            "id": "NB-NO-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Nombres",
+                            "fr": "1 ǀ 2 ǀ 3 ǀ 4 ǀ 5 ǀ 10 ǀ 20 ǀ 50 ǀ 100 ǀ 1000",
+                            "en": "1 ǀ 2 ǀ 3 ǀ 4 ǀ 5 ǀ 10 ǀ 20 ǀ 50 ǀ 100 ǀ 1000",
+                            "lao": "",
+                            "phonetic": "neung ǀ song ǀ sam ǀ si ǀ ha ǀ sip ǀ  ǀ  ǀ hoy ǀ phan"
+                        }
+                    ]
+                },
+                {
+                    "id": "6.2",
+                    "name": "Unités",
+                    "cards": [
+                        {
+                            "id": "NB-UN-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Unités",
+                            "fr": "Kilo ǀ Pièce / unité ǀ Personne ǀ Nuit ǀ Heure ǀ Jour ǀ Kip (monnaie)",
+                            "en": "Kilo ǀ Piece ǀ Person ǀ Night ǀ Hour ǀ Day ǀ Kip",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "6.3",
+                    "name": "Forme / Texture",
+                    "cards": [
+                        {
+                            "id": "NB-FO-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "Forme / Texture",
+                            "fr": "Fin ǀ Moulu ǀ En morceaux ǀ En poudre ǀ Liquide ǀ Entier ǀ Pur (100%) ǀ Mélangé",
+                            "en": "Fine ǀ Ground ǀ In pieces ǀ Powdered ǀ Liquid ǀ Whole ǀ Pure (100%) ǀ Mixed",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "6.4",
+                    "name": "Taille / Quantité",
+                    "cards": [
+                        {
+                            "id": "NB-TA-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Taille / Quantité",
+                            "fr": "Petit ǀ Moyen ǀ Grand ǀ Très grand ǀ Énorme ǀ Un peu ǀ Beaucoup ǀ Énormément",
+                            "en": "Small ǀ Medium ǀ Large ǀ Very big ǀ Huge ǀ A little ǀ A lot ǀ A ton",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "emoji": "🚑",
+            "name": "Santé / Urgence",
+            "color": "#FF2415",
+            "role": "Situations médicales ou urgentes",
+            "subcategories": [
+                {
+                    "id": "7.1",
+                    "name": "Symptômes",
+                    "cards": [
+                        {
+                            "id": "SA-SY-01",
+                            "recipient": "🏥 Médecin",
+                            "title": "J'ai mal ici",
+                            "fr": "J'ai mal ici",
+                            "en": "It hurts here",
+                            "lao": "",
+                            "phonetic": "chep bon ni"
+                        },
+                        {
+                            "id": "SA-SY-02",
+                            "recipient": "🏥 Médecin",
+                            "title": "Fièvre",
+                            "fr": "Fièvre",
+                            "en": "Fever",
+                            "lao": "",
+                            "phonetic": "khai"
+                        },
+                        {
+                            "id": "SA-SY-03",
+                            "recipient": "🏥 Médecin",
+                            "title": "Diarrhée",
+                            "fr": "Diarrhée",
+                            "en": "Diarrhea",
+                            "lao": "",
+                            "phonetic": "thok thong"
+                        },
+                        {
+                            "id": "SA-SY-04",
+                            "recipient": "🏥 Médecin",
+                            "title": "Vomissements",
+                            "fr": "Vomissements",
+                            "en": "Vomiting",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SA-SY-05",
+                            "recipient": "🏥 Médecin",
+                            "title": "Vertige",
+                            "fr": "Vertige",
+                            "en": "Dizziness",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SA-SY-06",
+                            "recipient": "🏥 Médecin",
+                            "title": "Piqûre d'insecte",
+                            "fr": "Piqûre d'insecte",
+                            "en": "Insect bite",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "7.2",
+                    "name": "Besoins médicaux",
+                    "cards": [
+                        {
+                            "id": "SA-BE-01",
+                            "recipient": "🏥 Médecin, 👤 Local",
+                            "title": "Médecin",
+                            "fr": "Médecin",
+                            "en": "Doctor",
+                            "lao": "",
+                            "phonetic": "mo"
+                        },
+                        {
+                            "id": "SA-BE-02",
+                            "recipient": "🏥 Médecin, 👤 Local",
+                            "title": "Hôpital",
+                            "fr": "Hôpital",
+                            "en": "Hospital",
+                            "lao": "",
+                            "phonetic": "hong mo"
+                        },
+                        {
+                            "id": "SA-BE-03",
+                            "recipient": "🏥 Médecin, 👤 Local",
+                            "title": "Ambulance",
+                            "fr": "Ambulance",
+                            "en": "Ambulance",
+                            "lao": "",
+                            "phonetic": "lot hong mo"
+                        },
+                        {
+                            "id": "SA-BE-04",
+                            "recipient": "🏥 Médecin, 👤 Local",
+                            "title": "Pharmacie",
+                            "fr": "Pharmacie",
+                            "en": "Pharmacy",
+                            "lao": "",
+                            "phonetic": "han khai ya"
+                        },
+                        {
+                            "id": "SA-BE-05",
+                            "recipient": "🏥 Médecin, 👤 Local",
+                            "title": "Mon ambassade",
+                            "fr": "Mon ambassade",
+                            "en": "My embassy",
+                            "lao": "",
+                            "phonetic": "sathan thut"
+                        }
+                    ]
+                },
+                {
+                    "id": "7.3",
+                    "name": "Actions urgentes",
+                    "cards": [
+                        {
+                            "id": "SA-AC-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Au secours !",
+                            "fr": "Au secours !",
+                            "en": "Help !",
+                            "lao": "",
+                            "phonetic": "suay duay !"
+                        },
+                        {
+                            "id": "SA-AC-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Appelez la police",
+                            "fr": "Appelez la police",
+                            "en": "Call the police",
+                            "lao": "",
+                            "phonetic": "tho ha tamluat"
+                        },
+                        {
+                            "id": "SA-AC-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Appelez un médecin",
+                            "fr": "Appelez un médecin",
+                            "en": "Call a doctor",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SA-AC-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Ambulance ǀ Hôpital",
+                            "fr": "Appelez une ambulance ǀ Emmenez-moi à l'hôpital",
+                            "en": "Call an ambulance ǀ Take me to the hospital",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SA-AC-05",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Vol ǀ Accident",
+                            "fr": "J'ai été volé(e) ǀ Il y a eu un accident",
+                            "en": "I've been robbed ǀ There's been an accident",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "7.4",
+                    "name": "Allergies",
+                    "cards": [
+                        {
+                            "id": "SA-AL-01",
+                            "recipient": "🏥 Médecin, 🍽️ Restaurant",
+                            "title": "Allergie (général)",
+                            "fr": "Allergie (général)",
+                            "en": "Allergy",
+                            "lao": "",
+                            "phonetic": "phae"
+                        },
+                        {
+                            "id": "SA-AL-02",
+                            "recipient": "🏥 Médecin, 🍽️ Restaurant",
+                            "title": "Allergie arachides",
+                            "fr": "Allergie arachides",
+                            "en": "Peanut allergy",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SA-AL-03",
+                            "recipient": "🏥 Médecin, 🍽️ Restaurant",
+                            "title": "Allergie piqûre",
+                            "fr": "Allergie piqûre",
+                            "en": "Sting allergy",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "7.5",
+                    "name": "Épuisement",
+                    "cards": [
+                        {
+                            "id": "SA-EP-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Épuisement physique",
+                            "fr": "Aujourd'hui mon corps a atteint sa limite. Trop de soleil, trop de poids, trop de pas. Tout me fait mal : pieds, jambes, épaules, dos. Mon esprit est dans le brouillard, mon corps est lourd et lent. Je traverse sans doute une réaction de détox : les toxines circulent, l'énergie est basse, le système est surchargé. J'ai juste besoin de m'arrêter, me reposer, boire et manger léger. J'ai hâte d'arriver ce soir, de me poser et de dormir !",
+                            "en": "Today my body has reached its limit. Too much sun, too much weight, too many steps. Everything hurts: feet, legs, shoulders, back. My mind is foggy, my body feels heavy and slow. I think I'm going through some kind of detox reaction: toxins moving, energy low, system overloaded. I just need to stop, rest, drink and eat something light. I can't wait to reach tonight's stop, settle in and sleep!",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "emoji": "🙏",
+            "name": "Politesse",
+            "color": "#1A1A1A",
+            "role": "Formules sociales de base",
+            "subcategories": [
+                {
+                    "id": "8.1",
+                    "name": "Salutations",
+                    "cards": [
+                        {
+                            "id": "PO-SA-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Bonjour",
+                            "fr": "Bonjour",
+                            "en": "Hello",
+                            "lao": "",
+                            "phonetic": "sabaidi"
+                        },
+                        {
+                            "id": "PO-SA-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Au revoir",
+                            "fr": "Au revoir",
+                            "en": "Goodbye",
+                            "lao": "",
+                            "phonetic": "la kon"
+                        },
+                        {
+                            "id": "PO-SA-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Bonne nuit",
+                            "fr": "Bonne nuit",
+                            "en": "Good night",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-SA-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Bonsoir ǀ Bonne journée",
+                            "fr": "Bonsoir ǀ Bonne journée !",
+                            "en": "Good evening ǀ Have a nice day!",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "8.2",
+                    "name": "Gratitude",
+                    "cards": [
+                        {
+                            "id": "PO-GR-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Merci",
+                            "fr": "Merci",
+                            "en": "Thank you",
+                            "lao": "",
+                            "phonetic": "khop chai"
+                        },
+                        {
+                            "id": "PO-GR-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Merci beaucoup",
+                            "fr": "Merci beaucoup",
+                            "en": "Thank you very much",
+                            "lao": "",
+                            "phonetic": "khop chai lai lai"
+                        },
+                        {
+                            "id": "PO-GR-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "De rien",
+                            "fr": "De rien",
+                            "en": "You're welcome",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "8.3",
+                    "name": "Excuses",
+                    "cards": [
+                        {
+                            "id": "PO-EX-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "S'il vous plaît",
+                            "fr": "S'il vous plaît",
+                            "en": "Please",
+                            "lao": "",
+                            "phonetic": "karuna"
+                        },
+                        {
+                            "id": "PO-EX-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Excusez-moi / Pardon",
+                            "fr": "Excusez-moi / Pardon",
+                            "en": "Excuse me / Sorry",
+                            "lao": "",
+                            "phonetic": "kho thot"
+                        },
+                        {
+                            "id": "PO-EX-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Désolé pour le dérangement",
+                            "fr": "Désolé pour le dérangement",
+                            "en": "Sorry for the trouble",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "8.4",
+                    "name": "Réponses",
+                    "cards": [
+                        {
+                            "id": "PO-RE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Oui",
+                            "fr": "Oui",
+                            "en": "Yes",
+                            "lao": "",
+                            "phonetic": "maen"
+                        },
+                        {
+                            "id": "PO-RE-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Non",
+                            "fr": "Non",
+                            "en": "No",
+                            "lao": "",
+                            "phonetic": "bo"
+                        },
+                        {
+                            "id": "PO-RE-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Peut-être",
+                            "fr": "Peut-être",
+                            "en": "Maybe",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-RE-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Je ne sais pas",
+                            "fr": "Je ne sais pas",
+                            "en": "I don't know",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-RE-05",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "D'accord",
+                            "fr": "D'accord",
+                            "en": "OK / Agreed",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "8.5",
+                    "name": "Social",
+                    "cards": [
+                        {
+                            "id": "PO-SO-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "C'est très bon !",
+                            "fr": "C'est très bon !",
+                            "en": "It's very good !",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-SO-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "C'est beau !",
+                            "fr": "C'est beau !",
+                            "en": "It's beautiful !",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-SO-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "J'adore !",
+                            "fr": "J'adore !",
+                            "en": "I love it !",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "PO-SO-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Gentillesse ǀ Appréciation",
+                            "fr": "Vous êtes très gentil(le) ! ǀ C'est génial !",
+                            "en": "You're very kind! ǀ This is great!",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "emoji": "🕐",
+            "name": "Temps",
+            "color": "#00BCD4",
+            "role": "Situer dans le temps",
+            "subcategories": [
+                {
+                    "id": "9.1",
+                    "name": "Moment",
+                    "cards": [
+                        {
+                            "id": "TE-MO-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Moments relatifs",
+                            "fr": "Aujourd'hui ǀ Demain ǀ Hier ǀ Maintenant ǀ Plus tard ǀ Bientôt ǀ Tout de suite",
+                            "en": "Today ǀ Tomorrow ǀ Yesterday ǀ Now ǀ Later ǀ Soon ǀ Right away",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "9.2",
+                    "name": "Période du jour",
+                    "cards": [
+                        {
+                            "id": "TE-PE-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Période du jour",
+                            "fr": "Matin ǀ Midi ǀ Après-midi ǀ Soir ǀ Nuit",
+                            "en": "Morning ǀ Noon ǀ Afternoon ǀ Evening ǀ Night",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "9.3",
+                    "name": "Durée relative",
+                    "cards": [
+                        {
+                            "id": "TE-DU-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Durée relative",
+                            "fr": "Longtemps ǀ Pas longtemps ǀ Environ [X] heure(s)",
+                            "en": "A long time ǀ Not long ǀ About [X] hour(s)",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "emoji": "🎨",
+            "name": "Descripteur",
+            "color": "#FF69B4",
+            "role": "Qualifier, décrire un objet ou une situation",
+            "subcategories": [
+                {
+                    "id": "10.1",
+                    "name": "Goût / Saveur",
+                    "cards": [
+                        {
+                            "id": "DE-GO-L1",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Goût / Saveur",
+                            "fr": "Épicé ǀ Sucré ǀ Acide / Aigre ǀ Amer ǀ Salé",
+                            "en": "Spicy ǀ Sweet ǀ Sour ǀ Bitter ǀ Salty",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "10.2",
+                    "name": "Température",
+                    "cards": [
+                        {
+                            "id": "DE-TE-L1",
+                            "recipient": "🍽️ Restaurant",
+                            "title": "Température",
+                            "fr": "Chaud ǀ Froid ǀ Tiède ǀ Glacé",
+                            "en": "Hot ǀ Cold ǀ Warm / Lukewarm ǀ Iced",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "10.3",
+                    "name": "État / Qualité",
+                    "cards": [
+                        {
+                            "id": "DE-ET-L1",
+                            "recipient": "🛒 Commerçant, 🍽️ Restaurant",
+                            "title": "État / Qualité",
+                            "fr": "Bon ǀ Mauvais ǀ Frais ǀ Mûr ǀ Pas mûr ǀ Trop mûr ǀ Propre ǀ Sale",
+                            "en": "Good ǀ Bad ǀ Fresh ǀ Ripe ǀ Not ripe ǀ Overripe ǀ Clean ǀ Dirty",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "10.4",
+                    "name": "Appréciation",
+                    "cards": [
+                        {
+                            "id": "DE-AP-L1",
+                            "recipient": "🛒 Commerçant",
+                            "title": "Appréciation",
+                            "fr": "Cher ǀ Pas cher ǀ Trop ǀ Pas assez",
+                            "en": "Expensive ǀ Cheap ǀ Too much ǀ Not enough",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "10.5",
+                    "name": "États personnels",
+                    "cards": [
+                        {
+                            "id": "DE-PE-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "États personnels",
+                            "fr": "J'ai faim ǀ J'ai soif ǀ Je suis fatigué ǀ J'ai chaud ǀ J'ai froid ǀ Je suis content",
+                            "en": "I'm hungry ǀ I'm thirsty ǀ I'm tired ǀ I'm hot ǀ I'm cold ǀ I'm happy",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "emoji": "🔗",
+            "name": "Connecteur",
+            "color": "#808080",
+            "role": "Lier les cartes entre elles, petits mots outils",
+            "subcategories": [
+                {
+                    "id": "11.1",
+                    "name": "Mots de liaison",
+                    "cards": [
+                        {
+                            "id": "CN-LI-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Mots de liaison",
+                            "fr": "Et ǀ Ou ǀ Mais ǀ Avec ǀ Sans ǀ Pour ǀ Aussi ǀ Seulement ǀ Encore ǀ Un autre",
+                            "en": "And ǀ Or ǀ But ǀ With ǀ Without ǀ For ǀ Also ǀ Only ǀ Again ǀ Another",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "11.2",
+                    "name": "Démonstratifs / Position",
+                    "cards": [
+                        {
+                            "id": "CN-DE-L1",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Démonstratifs / Position",
+                            "fr": "Ça / Celui-ci ǀ Celui-là ǀ Ici ǀ Là-bas",
+                            "en": "This / This one ǀ That one ǀ Here ǀ Over there",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "emoji": "💡",
+            "name": "Référence",
+            "color": "#DAA520",
+            "role": "Nommer un concept, un service, un document, une activité",
+            "subcategories": [
+                {
+                    "id": "12.1",
+                    "name": "💰 Argent / Paiement",
+                    "cards": [
+                        {
+                            "id": "RE-AR-01",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "L'addition",
+                            "fr": "L'addition",
+                            "en": "The bill",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-AR-02",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Un reçu",
+                            "fr": "Un reçu",
+                            "en": "A receipt",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-AR-03",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Le prix",
+                            "fr": "Le prix",
+                            "en": "The price",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-AR-04",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "La monnaie (rendu)",
+                            "fr": "La monnaie (rendu)",
+                            "en": "Change (money back)",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-AR-05",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Un pourboire",
+                            "fr": "Un pourboire",
+                            "en": "A tip",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-AR-06",
+                            "recipient": "🍽️ Restaurant, 🛒 Commerçant",
+                            "title": "Carte bancaire",
+                            "fr": "Carte bancaire",
+                            "en": "Bank card",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "12.2",
+                    "name": "📄 Réservation / Documents",
+                    "cards": [
+                        {
+                            "id": "RE-RE-01",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Une réservation",
+                            "fr": "Une réservation",
+                            "en": "A reservation",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-RE-02",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Un billet (transport)",
+                            "fr": "Un billet (transport)",
+                            "en": "A ticket",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-RE-03",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Un passeport",
+                            "fr": "Un passeport",
+                            "en": "A passport",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-RE-04",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Un visa",
+                            "fr": "Un visa",
+                            "en": "A visa",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-RE-05",
+                            "recipient": "🏨 Hôtel",
+                            "title": "Une photocopie",
+                            "fr": "Une photocopie",
+                            "en": "A photocopy",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "12.3",
+                    "name": "📱 Communication / Numérique",
+                    "cards": [
+                        {
+                            "id": "RE-CO-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Un numéro de téléphone",
+                            "fr": "Un numéro de téléphone",
+                            "en": "A phone number",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-CO-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Un mot de passe",
+                            "fr": "Un mot de passe",
+                            "en": "A password",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-CO-03",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Une adresse",
+                            "fr": "Une adresse",
+                            "en": "An address",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "RE-CO-04",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Un nom",
+                            "fr": "Un nom",
+                            "en": "A name",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "12.4",
+                    "name": "🏃 Activités / Sports",
+                    "cards": [
+                        {
+                            "id": "RE-SP-L1",
+                            "recipient": "👤 Local, 🌐 Tout le monde",
+                            "title": "Activités / Sports",
+                            "fr": "Escalade ǀ Trail / Course nature ǀ Course à pied ǀ Randonnée ǀ Tennis ǀ Natation ǀ Volleyball ǀ Football ǀ Vélo / VTT ǀ Yoga ǀ Kayak / Pirogue ǀ Musculation",
+                            "en": "Climbing ǀ Trail running ǀ Running ǀ Hiking ǀ Tennis ǀ Swimming ǀ Volleyball ǀ Football / Soccer ǀ Cycling / MTB ǀ Yoga ǀ Kayaking ǀ Weight training",
+                            "lao": "",
+                            "phonetic": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "emoji": "🃏",
+            "name": "Cartes spéciales",
+            "color": "#FFFFFF",
+            "role": "Support au système TheLaoTalkDeck",
+            "subcategories": [
+                {
+                    "id": "0.0",
+                    "name": "Cartes spéciales",
+                    "cards": [
+                        {
+                            "id": "SP-DE-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Mode d'emploi",
+                            "fr": "Ce jeu de cartes m'aide à communiquer avec vous. Chaque carte a du texte en anglais d'un côté (pour moi) et en lao de l'autre (pour vous). Merci de votre patience !",
+                            "en": "This card deck helps me communicate with you. Each card has English text on one side (for me) and Lao on the other (for you). Thank you for your patience!",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SP-PR-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Mon profil",
+                            "fr": "Nom : [X] — Nationalité : [X] — Allergies : [X] — Contact urgence : [X] — Ambassade : [X]",
+                            "en": "Name: [X] — Nationality: [X] — Allergies: [X] — Emergency contact: [X] — Embassy: [X]",
+                            "lao": "",
+                            "phonetic": ""
+                        },
+                        {
+                            "id": "SP-VI-01",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Carte vierge",
+                            "fr": "(Espace libre pour écrire au marqueur effaçable si plastifiée)",
+                            "en": "(Free space for writing with erasable marker if laminated)",
+                            "lao": "",
+                            "phonetic": "—"
+                        },
+                        {
+                            "id": "SP-VI-02",
+                            "recipient": "🌐 Tout le monde",
+                            "title": "Carte vierge",
+                            "fr": "(Espace libre)",
+                            "en": "(Free space)",
+                            "lao": "",
+                            "phonetic": "—"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
